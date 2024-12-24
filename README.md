@@ -1,6 +1,6 @@
-# 💻 Mariusz Sternak - Full Stack Developer | PWA & Dashboard Enthusiast
+# 💻 Mariusz Sternak (aquzif) - Full Stack Developer | PWA & Dashboard Enthusiast
 
-👋 Hi, I'm Mariusz! I specialize in creating user-centric applications with modern technologies. Whether it's a powerful **dashboard**, a responsive **PWA**, or a handy **Discord bot**, I focus on crafting solutions that are both functional and aesthetic.
+👋 Hi, I'm Mariusz (known online as **aquzif**)! I specialize in creating user-centric applications with modern technologies. Whether it's a powerful **dashboard**, a responsive **PWA**, or a handy **Discord bot**, I focus on crafting solutions that are both functional and aesthetic.
 
 ---
 
@@ -20,9 +20,9 @@
 ---
 
 ## 🚀 **Get in Touch**
-- **Email**: [mariusz@example.com](mailto:aquzif@aquzif.com)
-- **Portfolio**: [your-portfolio-link](https://aquzif.com)
-- **LinkedIn**: [your-linkedin-link](https://www.linkedin.com/in/mariusz-sternak/)
+- **Email**: [aquzif@aquzif.com](mailto:aquzif@aquzif.com)
+- **Portfolio**: [https://aquzif.com](https://aquzif.com)
+- **LinkedIn**: [https://www.linkedin.com/in/mariusz-sternak/](https://www.linkedin.com/in/mariusz-sternak/)
 
 ---
 
